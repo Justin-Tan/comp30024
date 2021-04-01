@@ -4,4 +4,4 @@ Slides for COMP30024: Artificial Intelligence @ The University of Melbourne - Se
 
 See [here for Python implementations](https://github.com/aimacode/aima-python) of the search methods in Russell & Norvig.
 
-
+![all_possible_futures](/assets/strange_meme.jpg)
